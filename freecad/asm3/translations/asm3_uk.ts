@@ -387,7 +387,7 @@ edges of two parts.</source>
     <message>
       <location filename="gui.py" line="421"/>
       <source>Import assemblies from STEP file into separate document</source>
-      <translation>Імпорт збірок з файлу STEP в окремий документ</translation>
+      <translation>Імпортує збірки з STEP файлу в окремі документи</translation>
     </message>
     <message>
       <location filename="gui.py" line="452"/>
